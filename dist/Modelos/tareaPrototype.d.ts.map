@@ -1,0 +1,1 @@
+{"version":3,"file":"tareaPrototype.d.ts","sourceRoot":"","sources":["../../Modelos/tareaPrototype.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,KAAK,EAAE,UAAU,EAAE,MAAM,gBAAgB,CAAC;AAGxD,eAAO,MAAM,cAAc;IACzB,WAAW,OAAO,KAAK,GAAG,IAAI;IAQ9B,aAAa,OAAO,KAAK,eAAe,MAAM,GAAG,KAAK;CAGvD,CAAC;AAEF,wBAAgB,mBAAmB,CAAC,KAAK,EAAE,UAAU,GAAG,KAAK,CAS5D"}
